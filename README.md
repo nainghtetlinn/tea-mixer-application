@@ -100,6 +100,17 @@ Prerequisites
 ```bash
 npm start
 ```
+
+## Code Quality
+
+Linting and formatting are handled with Biome:
+
+```bash
+npm run check
+npm run format
+npm run lint
+```
+
 ## Screenshots
 
 ### Home Screen
@@ -113,34 +124,8 @@ npm start
 
 ### Setting Screen
 <img src="public/setting_screen.png" alt="App Setting Screen" width="50%" />
-
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
-
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
     
-## Code Quality
 
-Linting and formatting are handled with Biome:
-
-```bash
-npm run check
-npm run format
-npm run lint
-```
 ## API Reference
 
 Communication between the mobile app and the ESP32 uses JSON payloads encoded in UTF-8 (and decoded from Base64 on incoming BLE notifications).
