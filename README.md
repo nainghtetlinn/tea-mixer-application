@@ -103,16 +103,17 @@ npm start
 ## Screenshots
 
 ### Home Screen
-![App Home Screen](public/home_screen.png)
+<img src="public/home_screen.png" alt="App Home Screen" width="50%">
 
 ### Recipes Screen
-![Recipes Screen](public/recipes_screen.png)
+<img src="public/recipes_screen.png" alt="App Recipes Screen" width="50%">
 
 ### AI Chat Screen
-![AI Chat Screen](public/ai_chat_screen.png)
+<img src="public/ai_chat_screen.png" alt="App AI Chat Screen" width="50%">
 
 ### Setting Screen
-![Setting Screen](public/setting_screen.png)
+<img src="public/setting_screen.png" alt="App Setting Screen" width="50%">
+
 ## Running Tests
 
 To run tests, run the following command
